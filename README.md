@@ -4,6 +4,4 @@ Set up (MacOS): pip install virtualenv && python3 -m venv env && source env/bin/
 
 # App
 
-![User selection interface](./images/app1.png)
-![Cluster visualization screenshot](./images/app2.png)
-![Top wallets and top tokens tables](./images/app3.png)
+![App Screenshot](./images/app.png)
